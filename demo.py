@@ -4,3 +4,8 @@ name = "Dhananjay"
 get_name(name)
 print("called successfully")
 
+def add_even_number(num):
+    pass
+
+
+
